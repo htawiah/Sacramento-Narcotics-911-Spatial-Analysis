@@ -26,6 +26,10 @@ The workflow used Python and ArcPy to automate neighborhood-level analysis of 91
 - A greater concentration of incidents was observed within northern neighborhoods.
 - The workflow demonstrates the use of Python and GIS for automated spatial analysis of emergency-call data.
 
+## Project Map
+
+![Narcotics-Related 911 Calls by Neighborhood, Sacramento](Sacramento_Narcotics_911_Spatial_Analysis.png)
+
 ## Interactive Map
 
 Explore the results through the interactive ArcGIS web map:
